@@ -1,6 +1,6 @@
 # 2048 Game
 
-INSTRUCTIONS
+INTRODUCTION
 
 This is the implementation of popular game 2048 in C++.
 
