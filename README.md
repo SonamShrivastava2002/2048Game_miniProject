@@ -4,7 +4,7 @@ INTRODUCTION
 
 This is the implementation of popular game 2048 in C++.
 
-The code is written in way that is easy to understand with fully commented using C++,Data structures and Algorithms and object oriented programming.
+The code is written in a way that is easy to understand with fully commented using C++,Data structures and Algorithms and object oriented programming.
 
 SETUP
 
@@ -28,5 +28,5 @@ q -> quit
 
 n -> new game
 
-When any of the cell will contain 2048 the user will win.
+When any of the cell will contain 2048 the player will win.
 
